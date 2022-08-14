@@ -10,8 +10,8 @@
 // • Kannachann
 // • The.Sad.Boy01
 // • Rasel comel
-// • Xtreshe (Beban)
-// • Dll
+// • Hyroel (Beban)
+// • Ardiansyah
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = 'https://www.instagram.com/zelvano_ardi'
+global.sgh = 'https://github.com/Hyroel'
+global.sgc = '-'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
-global.psaweria = '-'
+global.pdana = '089518886986'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '085881390816'
+global.ppulsa2 = '0895404276080'
+global.psaweria = 'https://saweria.co/Zassbot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '6288971749684'
+global.nomorown = '6285881390816'
+global.namebot = 'Zassbot'
+global.nameown = 'Ardiansyah'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
-  ['18126338970'],
-  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['6285881390784'],
+  ['6288102529270'],
+  ['62895404276080'],
+  ['6285881390816', 'Ardiansyah', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
